@@ -41,6 +41,11 @@ const summedCallback = (accumulator, foodItem) => accumulator + foodItem.price;
 
 console.log(summedPrice)
 
+/* 
+^ This problem caused me so meny issues, I don't know why. After I figured it out it was quite obivous.
+
+*/
+
 //////////////////PROBLEM 2////////////////////
 /*  
     Write a function called `calcFinalPrice` that
